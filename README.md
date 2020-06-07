@@ -1,3 +1,3 @@
 # Snake_game
 In this project I made a snake game in processing software 
-![](snakegame/data/ROBO.jpg)
+![](snakegame/data/Screenshot%20(925).png)
